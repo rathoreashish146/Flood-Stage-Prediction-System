@@ -1,6 +1,21 @@
 # Flood Stage Prediction System
 This project, titled "Flood Stage Prediction System," is a collaborative effort between Ashish and Nishant. The goal of this project is to develop a predictive system using various deep learning models such as Convolutional Neural Networks (CNN), Long Short-Term Memory networks (LSTM), Gated Recurrent Unit networks (GRU), and other relevant techniques to forecast flood stages.
 
+# Ashish Rathore:
+
+Led the project and coordinated efforts between team members.
+Implemented the deep learning models, including CNN, LSTM, and GRU.
+Conducted data preprocessing and transformation.
+Assisted with model evaluation and selection.
+Contributed to the development of the user interface for flood stage prediction.
+# Nishant:
+
+Provided valuable theoretical insights into flood stage prediction.
+Conducted extensive research on flood prediction techniques and related literature.
+Proposed innovative approaches for incorporating weather data and historical context into the models.
+Collaborated on the overall project design and methodology.
+Assisted in the interpretation of evaluation metrics and model performance analysis.
+
 Project Overview
 Floods are one of the most destructive natural disasters that can lead to loss of life, property damage, and economic impact. Predicting flood stages accurately is crucial for effective disaster management and mitigation. This project aims to create a system that can predict flood stages based on historical data, weather information, and other relevant factors.
 
