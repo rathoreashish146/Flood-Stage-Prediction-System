@@ -8,8 +8,6 @@ Implemented the deep learning models, including CNN, LSTM, and GRU.
 Conducted data preprocessing and transformation.
 Assisted with model evaluation and selection.
 Contributed to the development of the user interface for flood stage prediction.
-# Nishant:
-
 Provided valuable theoretical insights into flood stage prediction.
 Conducted extensive research on flood prediction techniques and related literature.
 Proposed innovative approaches for incorporating weather data and historical context into the models.
